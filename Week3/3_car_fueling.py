@@ -12,7 +12,7 @@ def compute_min_refills(distance, tank, stops):
         elif ((stops[i + 1] - stops[i]) > tank):
             no_stops = -1
             break
-        elif ((covered_dist + tank) > stops[i] and (covered_dist + tank) < stops[i + 1]):
+        elif ((covered_dist + tank) >= stops[i] and (covered_dist + tank) < stops[i + 1]):
             covered_dist = stops[i]
             left_dist = distance - stops[i]
             no_stops +=  1
