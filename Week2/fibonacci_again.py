@@ -15,7 +15,7 @@ def get_fibonacci_huge_naive(n, m):
         if i % 10 == 0:
             previous, current =  previous , current
     return current %m
-
+//Read about pisano period to know more about how the solution works
 def pisanoperiod(a):
     period = 0
     index=0
