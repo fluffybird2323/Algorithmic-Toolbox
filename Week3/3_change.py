@@ -2,7 +2,7 @@
 import sys
 
 def get_change(m):
-    #write your code here
+    #Maximum no. of tens + max fives + spare change
     return m//10 + (m%10)//5 + (m%5)
 
 if __name__ == '__main__':
