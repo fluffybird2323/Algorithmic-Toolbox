@@ -3,7 +3,7 @@ import sys
 import random
 
 def partition3(a, l, r):
-    #write your code here
+    #Divide and conquer
     x = a[l]
     m1 = l
     m2 = l
