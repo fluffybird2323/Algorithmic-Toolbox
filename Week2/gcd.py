@@ -1,6 +1,7 @@
 # Uses python3
 import sys
 def gcd_naive(a, b):
+# gcd of a,b is gcd of b%a and a ; Euclid's algorithm
 	if a==0:
 		return b
 	elif  b == 0:
