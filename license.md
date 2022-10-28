@@ -1,7 +1,21 @@
-icense File. A data file which is distributed with each executable copy of the MicroCosm® GNSS Prep Software and which restricts operation of the MicroCosm® 
-Prep Software\ to«
-the specific computer for which it has been licensed. Prototype Certificate of Upgrade Maintenance to MicroCosm® GNSS Prep Executables The MicroCosm® GNSS Pre
-p Software provided to under the SOFTWARE LICENSE AGREEMENT, MicroCosm® GNSS Prep Executables between Space Geodesy Analysis Centre, Pty, Ltd. and , dated ("Software License Agreement"), is hereby enrolled in the MicroCosm® Annual Upgrade Maintenance Program for the period beginning and extending until . During 
-the term of this subscription, one copy of each new release of MicroCosm® GNSS Prep Executables, updated documentation PDF files and release notes will be made available to the Licenee for electronic download from t
-he Licensor’s FTP site. The upgrades which are provided under these terms will be for use on the same computer and operating systems as specified in the original invoice, and the terms 
-and conditions of the Software License Agreement apply as set forth therein to such upgrades. SPACE GEODESY ANALYSIS CENTRE, PTY, LTD. By: Signature Printed Name Title: Sample 1
+MIT License
+
+Copyright (c) 2022
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
